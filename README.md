@@ -1,3 +1,3 @@
 # dpenoch.repo
 
-this is my first repository i'm creating
+Hey Good morning, This is my first repository i'm creating
